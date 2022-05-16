@@ -1,2 +1,4 @@
 # Binarization-methods
-Image binarization project for the Institute of Information Transmission Problems
+
+
+__Feel free to __Contact with me, if you have any questions:__ [vk click here](https://vk.com/otec_feodor) or Telegram  - @Fedor_Lomakin
