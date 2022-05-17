@@ -1,0 +1,13 @@
+{% extends 'base.html'%}
+
+{% block title %}
+Клетки человека
+{% endblock %}
+
+{% block body %}
+<h1 class="display-5 fw-bold">Клетки, которые делятся митозом</h1>
+<br>
+<img src="{{ file_url }}" width="100%">
+<br>
+<a class="btn btn-primary btn-lg px-4 gap-3" href="/examples">Назад</a>
+{% endblock %}
